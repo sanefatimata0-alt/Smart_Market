@@ -88,11 +88,6 @@ Entité| Rôle
 
 ---
 
-## 🧩MCD
-![Modéle Conceptuel de Données](MODELE CONCEPTUELLE DE DONNEES.png)
-
----
-
 🗂️ Structure du projet
 
 SmartMarket/
@@ -269,6 +264,7 @@ Fournisseur
 
 Le MCD permet de représenter les principales relations entre les données utilisées par l'application.
 
+📎 [Voir le MCD](MODELE CONCEPTUELLE DE DONNEES.png)
 ---
 
 🚀 Améliorations possibles
@@ -298,6 +294,12 @@ Le développement de SmartMarket nous a permis de travailler sur plusieurs diffi
 - Gestion et vérification des dates
 - Organisation des différentes fonctionnalités dans un menu
 
+---
+## 🎤 Présentation du projet
+
+La présentation PowerPoint du projet SmartMarket est disponible ici :
+
+📎 [Voir la présentation SmartMarket](SmartMarket Presentation Harmonized visuals.pptx)
 ---
 
 👩🏽‍💻 Projet universitaire
