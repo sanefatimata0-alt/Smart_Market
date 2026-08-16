@@ -88,6 +88,11 @@ Entité| Rôle
 
 ---
 
+## 🧩MCD
+![Modéle Conceptuel de Données](MODELE CONCEPTUELLE DE DONNEES.png)
+
+---
+
 🗂️ Structure du projet
 
 SmartMarket/
